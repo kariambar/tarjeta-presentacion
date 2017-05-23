@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+.logo{
+	top: 30px;
+	position: absolute;
+	left: 60px;
+}
+
+.triangle1{
+	width: 100px;
+	height: 350px;
+	background: #3c3c3b;
+	position: absolute;
+	bottom: 314px;
+	margin-left: 400px;
+}
+
+.triangle2{
+	width: 100px;
+	height: 350px;
+	border-bottom: 350px solid #3c3c3b;
+	border-left: 100px solid transparent;
+	position: absolute;
+	bottom: 314px;
+	margin-left: 200px;
+}
+
+
+h1{
+	color: #f7b617;
+	top: 80px;
+	margin-left: 300px;
+	position: absolute;
+
+
+}
