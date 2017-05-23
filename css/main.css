@@ -16,7 +16,7 @@ body{
 	height: 350px;
 	background: #3c3c3b;
 	position: absolute;
-	bottom: 314px;
+	bottom: 263px;
 	margin-left: 400px;
 }
 
@@ -26,16 +26,56 @@ body{
 	border-bottom: 350px solid #3c3c3b;
 	border-left: 100px solid transparent;
 	position: absolute;
-	bottom: 314px;
+	bottom: 263px;
 	margin-left: 200px;
 }
 
 
 h1{
-	color: #f7b617;
+	color: white;
 	top: 80px;
 	margin-left: 300px;
 	position: absolute;
+}
 
+h3{
+	color: #f7b617;
+	top: 140px;
+	margin-left: 300px;
+	position: absolute;
+	font-size: 14px;
 
+}
+
+.uno{
+	color: white;
+	top: 200px;
+	margin-left: 280px;
+	font-size: 12px;
+	position: absolute;
+
+}
+
+.dos{
+	color: white;
+	top: 220px;
+	margin-left: 280px;
+	font-size: 12px;
+	position: absolute;
+
+}
+
+.tres{
+	color: white;
+	top: 240px;
+	margin-left: 280px;
+	font-size: 12px;
+	position: absolute;
+
+}
+
+.icono-final{
+	position: absolute;
+	top: 308px;
+	left: 458px;
 }
